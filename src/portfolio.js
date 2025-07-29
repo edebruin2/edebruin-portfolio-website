@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://edebruin2.github.io',
+  title: 'EdeB.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Emmett de Bruin',
+  role: 'Software Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'I am currently based in Long Island, New York. I graduated with a BA in Computer Science from The University of San Diego in 2025.',
+  resume: 'https://github.com/edebruin2/edebruin-portfolio-website/raw/main/Emmett%20de%20Bruin_RESUME.pdf',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'www.linkedin.com/in/emmett-de-bruin-9a4580235',
+    github: 'https://github.com/edebruin2',
   },
 }
 
