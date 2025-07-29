@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://edebruin2.github.io/edebruin-portfolio-website',
+  homepage: 'https://edebruin2.github.io/portfolio',
   title: 'EdeB.',
 }
 
@@ -21,25 +21,24 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'MathArt Playground',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'IOS app used to create colorful art using geometric functions. Mainly used for relaxation or to help younger children get a better understanding of geometry without being overwhelmed by equations. ',
+    stack: ['Swift', 'Agile', 'Firestore'],
+    sourceCode: 'https://github.com/usd-cs/COMP-49X-24-25-PhoneArt',
+    livePreview: 'https://https://apps.apple.com/us/app/mathart-playground/id6745572126',
   },
   {
-    name: 'Project 2',
+    name: 'Pokemon Simulator',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A bare bones pokemon simulator, allowing the user to level up, battle, and catch pokemon. Offers a subset of pokemon which all have individual stat blocks and move pools.',
+    stack: ['Java', 'OOP', 'Peer Programming'],
+    sourceCode: 'https://github.com/usd-cs/comp305-final-project-sp24-s01s02-austincristianemmett-project4',
   },
   {
     name: 'Project 3',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'TBA',
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
@@ -49,18 +48,16 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
+  'Python',
+  'C',
   'JavaScript',
-  'TypeScript',
+  'Java',
   'React',
-  'Redux',
-  'SASS',
+  'Agile',
+  'Object-Oriented Programming',
   'Material UI',
-  'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Git/Github',
+  'HTML',
 ]
 
 const contact = {
