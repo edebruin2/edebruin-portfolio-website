@@ -33,7 +33,6 @@ const projects = [
     description:
       'A bare bones pokemon simulator, allowing the user to level up, battle, and catch pokemon. Offers a subset of pokemon which all have individual stat blocks and move pools.',
     stack: ['Java', 'OOP', 'Peer Programming'],
-    sourceCode: 'https://github.com/usd-cs/comp305-final-project-sp24-s01s02-austincristianemmett-project4',
   },
   {
     name: 'Project 3',
